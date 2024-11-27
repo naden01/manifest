@@ -210,7 +210,6 @@
     <remove-project name="platform/external/javassist"  />
     <remove-project name="platform/external/jcommander"/>
     <remove-project name="platform/external/jdiff"/>
-    <remove-project name="platform/external/jemalloc_new"  />
     <remove-project name="platform/external/jimfs"  />
     <remove-project name="platform/external/jline"/>
     <remove-project name="platform/external/jsilver"/>
